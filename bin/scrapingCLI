@@ -3,3 +3,4 @@
 require "bundler/setup"
 require "scrapingCLI"
 
+ScrapingCli::CLI.new.start
